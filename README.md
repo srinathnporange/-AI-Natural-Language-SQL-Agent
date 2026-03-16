@@ -100,11 +100,11 @@ The AI agent dynamically retrieves information from these tables.
 
 Main Workflow
 
-https://n8n.io/workflows/
+![https://n8n.io/workflows/](https://github.com/srinathnporange/-AI-Natural-Language-SQL-Agent/blob/main/6179236450705018332.jpg)
 
 SQL Execution Workflow
 
-https://n8n.io/workflows/
+![https://n8n.io/workflows/](https://github.com/srinathnporange/-AI-Natural-Language-SQL-Agent/blob/main/6179236450705018334.jpg)
 
 *(Replace with your workflow export or public workflow links)*
 
