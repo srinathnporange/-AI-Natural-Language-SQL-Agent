@@ -112,13 +112,10 @@ SQL Execution Workflow
 
 # Database Link
 
-Supabase Project Dashboard
-
-https://supabase.com/dashboard
 
 Database Tables
 
-https://supabase.com/dashboard/project/your_project_id/database/tables
+![database](https://github.com/srinathnporange/-AI-Natural-Language-SQL-Agent/blob/main/6179236450705018340.jpg)
 
 ---
 
